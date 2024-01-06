@@ -1,89 +1,89 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object 👂 heard
-  - this 👂 heard
-  - arrow function 🖐️ used
-  - async function 👂 heard
-  - call 👂 heard
-  - bind 👂 heard
-  - apply 👂 heard
-  - instanceof 👂 heard
-  - ...spread 👂 heard
-  - ...rest 👂 heard
-  - typeof 🎓 known
-  - destructuring 👂 heard
-  - generator 👂 heard
+  - Object 🖐 used
+  - this 🖐 used
+  - arrow function 🖐 used
+  - async function 🖐 used
+  - call 🎓 known
+  - bind 🎓 known
+  - apply 🎓 known
+  - instanceof 🖐 used
+  - ...spread 🎓 known
+  - ...rest 🎓 known
+  - typeof 🖐 used
+  - destructuring 🎓 known
+  - generator 🎓 known
   - iterator 🎓 known
-  - async generator 
-  - async iterator
-  - chaining 👂 heard
-  - optional chaining
-  - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters 👂 heard
-  - __proto__ 👂 heard
-  - prototype 👂 heard
-  - equality operators 🖐️ used
-  - logical operators 🖐️ used
-  - bitwise operators 👂 heard
-  - ternary operator 🖐️ used
-  - void 👂 heard
-  - yield
-  - await 👂 heard
-  - template literal
-  - strict mode 🖐️ used
-  - delete
-  - in
-  - super
-  - Symbol 👂 heard
-  - Reflect
+  - async generator 🎓 known
+  - async iterator 🎓 known
+  - chaining 🎓 known
+  - optional chaining 👂 heard
+  - IIFE 🎓 known
+  - global 🖐 used
+  - globalThis 🎓 known
+  - window 🖐 used
+  - getters and setters 🎓 known
+  - proto 🎓 known
+  - prototype 🎓 known
+  - equality operators 🖐 used
+  - logical operators 🖐 used
+  - bitwise operators 🎓 known
+  - ternary operator 🖐 used
+  - void 🎓 known
+  - yield 🎓 known
+  - await 🖐 used
+  - template literal 🎓 known
+  - strict mode 🖐 used
+  - delete 🎓 known
+  - in 🎓 known
+  - super 🎓 known
+  - Symbol 🎓 known
+  - Reflect 🎓 known
 - Statements
-  - if 🖐️ used
-  - while 🖐️ used
-  - do..while 🖐️ used
-  - for 🖐️ used
-  - for..in 🖐️ used
-  - for..of 🖐️ used
-  - for await 🖐️ used
-  - throw 🖐️ used
-  - break 🖐️ used
-  - continue
+  - if 🖐 used
+  - while 🖐 used
+  - do..while 🖐 used
+  - for 🖐 used
+  - for..in 🖐 used
+  - for..of 🖐 used
+  - for await 🖐 used
+  - throw 🖐 used
+  - break 🖐 used
+  - continue 🎓 known
   - import  🎓 known
   - export 🎓 known
-  - label
-  - try..catch 🖐️ used
-  - switch 🖐️ used 
-  - class 🎓 known
-  - new Error
-  - with
+  - label 🎓 known
+  - try..catch 🖐 used
+  - switch 🖐 used 
+  - class 🖐 used
+  - new Error 🎓 known
+  - with 🎓 known
 - Functions
   - function declaration 🎓 known
   - function expression 🎓 known
   - return 🎓 known
   - default parameters 🎓 known
-  - functional object 👂 heard
+  - functional object 🎓 known
 - Data structures
-  - Array 🖐️ used
-  - mixin
-  - extend
-  - typed arrays 👂 heard
-  - Map 👂 heard
-  - Set 👂 heard
-  - undefined 🖐️ used
-  - null 🖐️ used
-  - Proxy 👂 heard
-  - weak collections 👂 heard
+  - Array 🖐 used
+  - mixin 🎓 known
+  - extend 🎓 known
+  - typed arrays 🎓 known
+  - Map 🎓 known
+  - Set 🎓 known
+  - undefined 🖐 used
+  - null 🖐 used
+  - Proxy 🎓 known
+  - weak collections 🎓 known
   - timers 🎓 known
   - EventEmitter 🎓 known
-  - RegExp
-  - Date
+  - RegExp 🎓 known
+  - Date 🎓 known
   - BigInt 🎓 known
 - Infrastructure
-  - V8 🖐️ used
-  - Node.js 🖐️ used
-  - npm 🖐️ used
-  - prettier 🖐️ used
-  - MDN 🖐️ used
+  - V8 🖐 used
+  - Node.js 🖐 used
+  - npm 🖐 used
+  - prettier 🖐 used
+  - MDN 🖐 used
