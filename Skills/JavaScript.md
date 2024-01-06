@@ -1,89 +1,89 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
+  - Object 👂 heard
+  - this 👂 heard
+  - arrow function 🖐️ used
+  - async function 👂 heard
+  - call 👂 heard
+  - bind 👂 heard
+  - apply 👂 heard
+  - instanceof 👂 heard
+  - ...spread 👂 heard
+  - ...rest 👂 heard
+  - typeof 🎓 known
+  - destructuring 👂 heard
+  - generator 👂 heard
+  - iterator 🎓 known
+  - async generator 
   - async iterator
-  - chaining
+  - chaining 👂 heard
   - optional chaining
   - IIFE
   - global
   - globalThis
   - window
-  - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
+  - getters and setters 👂 heard
+  - __proto__ 👂 heard
+  - prototype 👂 heard
+  - equality operators 🖐️ used
+  - logical operators 🖐️ used
+  - bitwise operators 👂 heard
+  - ternary operator 🖐️ used
+  - void 👂 heard
   - yield
-  - await
+  - await 👂 heard
   - template literal
-  - strict mode
+  - strict mode 🖐️ used
   - delete
   - in
   - super
-  - Symbol
+  - Symbol 👂 heard
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
+  - if 🖐️ used
+  - while 🖐️ used
+  - do..while 🖐️ used
+  - for 🖐️ used
+  - for..in 🖐️ used
+  - for..of 🖐️ used
+  - for await 🖐️ used
+  - throw 🖐️ used
+  - break 🖐️ used
   - continue
-  - import
-  - export
+  - import  🎓 known
+  - export 🎓 known
   - label
-  - try..catch
-  - switch
-  - class
+  - try..catch 🖐️ used
+  - switch 🖐️ used 
+  - class 🎓 known
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration 🎓 known
+  - function expression 🎓 known
+  - return 🎓 known
+  - default parameters 🎓 known
+  - functional object 👂 heard
 - Data structures
-  - Array
+  - Array 🖐️ used
   - mixin
   - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
-  - weak collections
-  - timers
-  - EventEmitter
+  - typed arrays 👂 heard
+  - Map 👂 heard
+  - Set 👂 heard
+  - undefined 🖐️ used
+  - null 🖐️ used
+  - Proxy 👂 heard
+  - weak collections 👂 heard
+  - timers 🎓 known
+  - EventEmitter 🎓 known
   - RegExp
   - Date
-  - BigInt
+  - BigInt 🎓 known
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8 🖐️ used
+  - Node.js 🖐️ used
+  - npm 🖐️ used
+  - prettier 🖐️ used
+  - MDN 🖐️ used
