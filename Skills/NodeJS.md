@@ -1,81 +1,81 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and slocking code
-  - Event loop: phases
-  - Event loop: microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Strong and weak sides of node.js 🎓 known
+  - Stateful and stateless servers 🎓 known
+  - Nonblocking I/O and slocking code 🎓 known
+  - Event loop: phases 🎓 known
+  - Event loop: microtasks and macrotasks 🎓 known
+  - Garbage collection 🎓 known
+  - Node.js LTS schedule 👂 heard
+  - I/O-bound, CPU-bound, memory-bound tasks 👂 heard
+  - Interactive applications (close to real-time) 👂 heard
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module
-  - Caching in CJS and ESM
-  - Modules as singletons
-  - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules 🖐️ used
-  - Dependencies: package.json and package lock 🖐️ used
-  - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
+  - CommonJS modules 🖐 used
+  - ECMAScript modules 🖐 used
+  - node:module 🖐 used
+  - Caching in CJS and ESM 👂 heard
+  - Modules as singletons 🎓 known
+  - Contexts and scripts node:vm 👂 heard
+  - Dependencies: npm, node_modules 🖐 used
+  - Dependencies: package.json and package lock 🖐 used
+  - Module-based permissions model 🎓 known
+  - Isolation with modularity 🎓 known
+  - Dependency injection 🎓 known
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments 
-  - Node.js CLI 
+  - Command line arguments 🎓 known
+  - Node.js CLI 🎓 known
   - Process-based permissions
-  - Graceful shutdown
-  - Clustering
+  - Graceful shutdown 🎓 known
+  - Clustering 👂 heard
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
-  - Web Streams API
-  - Crypto API
-  - Password hashing with node:crypto.scrypt
+  - Streams API 👂 heard
+  - Web Streams API 👂 heard
+  - Crypto API 👂 heard
+  - Password hashing with node:crypto.scrypt 👂 heard
   - Web Crypto API
-  - File system API: sync and async
-  - Copy folder recursively
+  - File system API: sync and async 🎓 known
+  - Copy folder recursively 👂 heard
   - Worker threads
   - Performance hooks
-  - Native fetch and nodejs/undici
+  - Native fetch and nodejs/undici 
   - node:async_hooks
-  - AsyncLocalStorage
-  - AsyncResource
+  - AsyncLocalStorage 👂 heard
+  - AsyncResource 👂 heard
   - Deprecated domain API
-  - Node.js single executable
+  - Node.js single executable 👂 heard
   - Stream back pressure
   - SharedArrayBuffer
   - node:worker_threads
   - node:child_process
   - MessageChannel, MessagePort
   - BroadcastChannel
-  - Generating crypto random UUID
+  - Generating crypto random UUID 👂 heard
   - node:url vs new URL
   - node:assert
   - Internationalization
-  - Blob, File, Buffer, node:buffer
+  - Blob, File, Buffer, node:buffer  🎓 known
   - Module node:zlib
 - Application structure and architecture
-  - Isolation between layer
-  - Multilayer approach
-  - Separation of concerns
-  - Inversion of control
+  - Isolation between layer 👂 heard
+  - Multilayer approach 👂 heard
+  - Separation of concerns 🎓 known
+  - Inversion of control 🎓 known
   - Dependency injection
-  - GRASP 👂 heard
-  - SOLID 👂 heard
-  - GoF patterns
+  - GRASP 🎓 known
+  - SOLID 🎓 known
+  - GoF patterns 🎓 known
   - Distributed systems
-  - Highload applications
-  - Clean architecture
+  - Highload applications 👂 heard
+  - Clean architecture 🎓 known
   - DDD
-  - Message Queue
-  - CQS
-  - CQRS
+  - Message Queue 👂 heard
+  - CQS 👂 heard
+  - CQRS 👂 heard
   - Event sourcing
   - Load balancing
   - Serverless clouds
@@ -84,74 +84,74 @@
   - GoF for Node.js
   - Leaking abstractions
 - Network
-  - IP sticky sessions
-  - Endpoint throttling
-  - HTTP(S) 👂 heard
-  - TCP/SSL 👂 heard
-  - UDP 👂 heard
-  - TLS
-  - Websocket
+  - IP sticky sessions 👂 heard
+  - Endpoint throttling 🖐 used
+  - HTTP(S) 🖐 used
+  - TCP/SSL 🖐 used
+  - UDP 🖐 used
+  - TLS 👂 heard
+  - Websocket 👂 heard
   - SSE
-  - HTTP/3 (QUIC)
+  - HTTP/3 (QUIC) 👂 heard
   - Long polling
-  - REST 👂 heard
+  - REST 🖐 used
   - RPC
-  - Routing
+  - Routing 🖐 used
   - DoS
   - DDoS
   - XSS
   - Path traversal
   - CSRF
-  - DNS
-  - Fetch API
-  - IncomingMessage
-  - SQL injection 👂 heard
-  - noDelay
-  - keep-alive
+  - DNS 🖐 used
+  - Fetch API 🖐 used
+  - IncomingMessage 🎓 known
+  - SQL injection 🎓 known
+  - noDelay 🎓 known
+  - keep-alive 🎓 known
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates 🎓 known
   - Protocol agnostic approach
 - Technique and tools
-  - Native test runner
-  - Logging 🖐️ used
-  - Application configuring
-  - Testing
-  - CI/CD 🖐️ used
-  - Readable
-  - Writable
-  - Transform
+  - Native test runner 🖐 used
+  - Logging 🖐 used
+  - Application configuring 🖐 used
+  - Testing 🖐 used
+  - CI/CD 🖐 used
+  - Readable 👂 heard
+  - Writable 👂 heard
+  - Transform 👂 heard
   - back pressure
-  - Buffer
-  - Console 🖐️ used
+  - Buffer 🖐 used
+  - Console 🖐 used
   - Inspector
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability 👂 heard
+  - Quality 👂 heard
+  - Availability 👂 heard
+  - Flexibility 👂 heard
 - Data access
-  - Data access layer
-  - Repository
-  - Active record
-  - Query builder
-  - Object-Relational Mapping
+  - Data access layer 🎓 known
+  - Repository 🎓 known
+  - Active record 🎓 known
+  - Query builder 🎓 known
+  - Object-Relational Mapping 🎓 known
 - Error handling and debugging
-  - Error 🖐️ used
-  - error.cause
-  - error.code
-  - error.message 🖐️ used
-  - error.stack
+  - Error 🖐 used
+  - error.cause 🖐 used
+  - error.code 🖐 used
+  - error.message 🖐 used
+  - error.stack 🖐 used
   - How to avoid mixins 👂 heard
-  - Error.captureStackTrace
-  - Uncaught exceptions 👂 heard
-  - Heap dump
-  - Debugging tools
+  - Error.captureStackTrace 👂 heard
+  - Uncaught exceptions 🎓 known
+  - Heap dump 🎓 known
+  - Debugging tools 🖐 used
   - Flame graph
-  - Memory leaks 👂 heard
-  - Resource leaks
-  - Data race
+  - Memory leaks 🎓 known
+  - Resource leaks 🎓 known
+  - Data race 👂 heard
 - Integrations and bindings
-  - Native addons
+  - Native addons 👂 heard
   - C and C++ addons
   - Rust addons
   - Zig addons

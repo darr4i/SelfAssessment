@@ -1,20 +1,20 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value 🖐️ used
-  - identifier 🖐️ used
+  - value 🖐 used
+  - identifier 🖐 used
   - variable 🎓 known
-  - constant 🖐️ used
+  - constant 🖐 used
   - scalar 🎓 known
   - literal 🎓 known
-  - expression 🖐️ used
+  - expression 🖐 used
   - heap 🎓 known
-  - function 🖐️ used
+  - function 🖐 used
   - procedure 🎓 known
-  - method 🖐️ used
-  - class 🖐️ used
+  - method 🖐 used
+  - class 🖐 used
   - prototype 🎓 known
-  - event 🖐️ used
+  - event 🖐 used
   - type 🎓 known
   - primitive types 🎓 known
   - reference types 🎓 known
@@ -22,30 +22,30 @@
   - lexical scope 🎓 known
   - code block 👂 heard
   - conditions 🎓 known
-  - loops 🖐️ used
-  - assignment 🖐️ used
-  - regular expression 🎓 known
+  - loops 🖐 used
+  - assignment 🖐 used
+  - regular expression 🖐 used
   - interface 🎓 known
   - contract 👂 heard
   - module 🎓 known
-  - call stack 🖐️ used
+  - call stack 🖐 used
 - Functions
   - signature 🎓 known
   - argument 🎓 known
   - parameter 🎓 known
-  - pure function 🖐️ used
-  - lambda expression 🖐️ used
+  - pure function 🖐 used
+  - lambda expression 🖐 used
   - side effects 🎓 known
-  - closure 🖐️ used
+  - closure 🖐 used
   - partial application 👂 heard
   - curry 👂 heard
   - higher order 👂 heard
-  - recursion 🖐️ used
-  - callback 🖐️ used
-  - listener 🖐️ used
+  - recursion 🖐 used
+  - callback 🖐 used
+  - listener 🖐 used
   - compose 🎓 known
   - pipe 👂 heard
-  - memoize 🎓 known
+  - memoize 🖐 used
   - wrapper 🎓 known
   - functor 👂 heard
   - monad 👂 heard
@@ -53,54 +53,54 @@
   - generator 👂 heard
   - coroutine 👂 heard
 - Data structures
-  - array 🖐️ used
+  - array 🖐 used
   - structure 👂 heard
   - record 👂 heard
   - enum 👂 heard
   - instance 🎓 known
-  - object 🖐️ used
-  - class 🖐️ used
-  - collection 🖐️ used
+  - object 🖐 used
+  - class 🖐 used
+  - collection 🖐 used
   - set 🎓 known
   - hash table 🎓 known
-  - linked list 🎓 known
+  - linked list 🖐 used
   - doubly list 👂 heard
   - unrolled list 👂 heard
   - circular list 👂 heard
-  - queue 🎓 known
-  - stack 🎓 known
-  - deque 🖐️ used
-  - tree 🖐️ used
-  - graph 🖐️ used
+  - queue 🖐 used
+  - stack 🖐 used
+  - deque 🖐 used
+  - tree 🖐 used
+  - graph 🖐 used
   - iterator 🎓 known
   - mutable state 👂 heard
   - immutable state 👂 heard
   - serialization 👂 heard
   - string parsing 🎓 known
 - Process & style
-  - compiler 🖐️ used
+  - compiler 🖐 used
   - transpiler 👂 heard
-  - linter 🖐️ used
+  - linter 🖐 used
   - polyfill 👂 heard
-  - debugger 🖐️ used
-  - garbage collection
-  - refactoring 🖐️ used
-  - code review 🖐️ used
+  - debugger 🖐 used
+  - garbage collection 👂 heard
+  - refactoring 🖐 used
+  - code review 🖐 used
   - antipatterns 🎓 known
   - paradigm 🎓 known
   - algorithm 🎓 known
   - magic numbers 🎓 known
   - hardcode 🎓 known
   - complexity 🎓 known
-  - decomposition 👂 heard
+  - decomposition 🎓 known
   - spaghetti 🎓 known
   - silver bullet 🎓 known
-  - not invented here
+  - not invented here 🎓 known
   - dead code 🎓 known
   - unreachable code 🎓 known
   - duplicate code 🎓 known
   - exception 🎓 known
   - return early 🎓 known
-  - unittest 👂 heard
-  - git 🖐️ used
-  - github 🖐️ used
+  - unittest 🎓 known
+  - git 🖐 used
+  - github 🖐 used
