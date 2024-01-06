@@ -17,8 +17,8 @@
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules 🖐️ used
+  - Dependencies: package.json and package lock 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,8 +26,8 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments 
+  - Node.js CLI 
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -66,8 +66,8 @@
   - Separation of concerns
   - Inversion of control
   - Dependency injection
-  - GRASP
-  - SOLID
+  - GRASP 👂 heard
+  - SOLID 👂 heard
   - GoF patterns
   - Distributed systems
   - Highload applications
@@ -86,15 +86,15 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - HTTP(S) 👂 heard
+  - TCP/SSL 👂 heard
+  - UDP 👂 heard
   - TLS
   - Websocket
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST 👂 heard
   - RPC
   - Routing
   - DoS
@@ -105,7 +105,7 @@
   - DNS
   - Fetch API
   - IncomingMessage
-  - SQL injection
+  - SQL injection 👂 heard
   - noDelay
   - keep-alive
   - ALPN
@@ -114,16 +114,16 @@
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging 🖐️ used
   - Application configuring
   - Testing
-  - CI/CD
+  - CI/CD 🖐️ used
   - Readable
   - Writable
   - Transform
   - back pressure
   - Buffer
-  - Console
+  - Console 🖐️ used
   - Inspector
   - Reliability
   - Quality
@@ -136,18 +136,18 @@
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
+  - Error 🖐️ used
   - error.cause
   - error.code
-  - error.message
+  - error.message 🖐️ used
   - error.stack
-  - How to avoid mixins
+  - How to avoid mixins 👂 heard
   - Error.captureStackTrace
-  - Uncaught exceptions
+  - Uncaught exceptions 👂 heard
   - Heap dump
   - Debugging tools
   - Flame graph
-  - Memory leaks
+  - Memory leaks 👂 heard
   - Resource leaks
   - Data race
 - Integrations and bindings
